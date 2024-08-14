@@ -1,4 +1,4 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 
@@ -17,6 +17,5 @@ This study guide can be used a refrence all the information learned in the prewo
 N/A
 
 ## License
-
-Please refer to the LICENSE in the repo
+Please Refer to the LICENSE in the repo
 ---
